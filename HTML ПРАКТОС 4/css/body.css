@@ -1,0 +1,201 @@
+.body{
+    background-color: rgb(23, 23, 23);
+    margin-left: 70px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header{
+    background-color: rgb(23, 23, 23);
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 20px;
+    
+}
+
+.div1{
+    color: rgb(255, 191, 0); 
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.div2{
+    color: snow;
+    margin-left: 350px;
+    position: absolute;
+    font-size: 16px;
+    display: flex; align-items: center;
+    
+}
+
+.div3{
+    font-size: 40px;
+    color: snow;
+    margin-top: 300px;
+    margin-right: 10px;
+}
+
+.div4{
+    font-size: 14px;
+    color: gray;
+}
+
+.div5{
+    display: flex; align-items: center;
+}
+
+.div6{
+    display: flex; align-items: center;
+}
+
+.image{
+    margin-top: 7px;
+}
+
+.image1{
+    margin-left: 650px;
+    margin-top: -12px;
+    position: absolute;
+    font-size: 12px;
+}
+
+.image2{
+    margin-left: 700px;
+    margin-top: -12px;
+    position: absolute;
+    font-size: 12px;
+}
+
+.image3{
+    position: absolute;
+    bottom: 0;
+    margin-left: 85px;
+    margin-bottom: 14px;
+    font-size: 12px;
+}
+
+.image4{
+    margin-bottom: 14px;
+    font-size: 12px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+
+.image5{
+    margin-bottom: 14px;
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.image6{
+    margin-bottom: 14px;
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.image7{
+    width: 600px;
+    height: 760px;
+    margin-left: 865px;
+    margin-top: -540px;
+    z-index: -1;
+    position: absolute;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;  
+    color: snow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 25px;
+    font-size: 12px;
+}
+
+.button1{
+    background-color:rgb(255, 191, 0);
+    width: 150px;
+    color: rgb(255, 255, 255);
+    text-shadow: black;
+    font-size: 15px;
+    padding: 10px;
+}
+
+
+.p{
+    margin-left: 30px;
+    color: grey;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.span1{
+    font-size: 40px;
+    color: rgb(255, 191, 0);
+    margin-top: 300px; 
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.h1{
+    margin-left: 40px;
+}
+
+.link1 {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 1;
+}
+
+.link1:hover {
+    background-color: rgb(0, 255, 195);
+}
+
+.link2{
+    color: inherit;
+    text-decoration: none;
+}
+
+.span2{
+    margin-left: 825px;
+    margin-top: 75px;
+    z-index: 999;
+    position: absolute;
+    color: rgb(255, 191, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.span3{
+    margin-left: 755px;
+    margin-bottom: 0px;
+    z-index: 999;
+    position: absolute;
+    color: snow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.span4{
+    margin-left: 770px;
+    margin-top: 75px;
+    z-index: 999;
+    position: absolute;
+    color: snow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.button2{
+    margin-left: 1100px;
+    margin-top: 100px;
+    z-index: 999;
+    position: absolute;
+    background-color: rgb(255, 191, 0);
+    color: snow;
+    padding: 8px;
+    width: 125px;
+    
+}
